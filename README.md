@@ -1,1 +1,1 @@
-# tailwindcss-dimensions-plugin
+# tailwindcss-size
